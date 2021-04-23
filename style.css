@@ -1,0 +1,42 @@
+.container img{
+  width: 245px;
+  height: 326px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+html {
+  font-family: "Cabin", sans-serif;
+}
+
+.underline-title {
+  text-decoration: underline solid black;
+}
+
+body {
+  width: 600px;
+  margin: 20px auto;
+  background-color: white;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa {
+  font-size: 36px;
+}
